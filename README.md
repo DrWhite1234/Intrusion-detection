@@ -1,4 +1,4 @@
-Intrusion Detection System using Ensemble Approach
+Intrusion Detection Model using Ensemble Learning
 Author: ASWATH S
 
 Project Overview
