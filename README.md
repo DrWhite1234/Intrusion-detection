@@ -1,7 +1,9 @@
 Intrusion Detection Model using Ensemble Learning
+
 Author: ASWATH S
 
 Project Overview
+
 This repository contains the code and resources for an Intrusion Detection System (IDS) built using an Ensemble Learning Approach. Traditional single-model intrusion detection systems often struggle with high false positive rates and adapting to novel network attacks. This project tackles those challenges by combining multiple machine learning models to enhance detection accuracy, robustness, and overall network security.
 
 Methodology:
